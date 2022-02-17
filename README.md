@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cagan327
+- 👋 Hi, I’m @cagan327. I am a coder.
 - 👀 I’m interested in Dapp/crypto programming
 - 📫 How to reach me cagan327@gmail.com
 
